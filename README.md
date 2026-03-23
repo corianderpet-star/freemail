@@ -11,10 +11,6 @@
 📖 **[一键部署指南](docs/yijianbushu.md)** | 📬 **[Resend 发件配置](docs/resend.md)** | 📚 **[API 文档](docs/api.md)**
 
 ## 📸 项目展示
-### 体验地址： https://mailexhibit.dinging.top/
-
-### 体验账号： guest
-### 体验密码： admin
 ### 页面展示
 
 #### 登陆
